@@ -1,5 +1,5 @@
 projectKey=trainings_day1:24823
 serverUrl=http://172.27.12.78
 dashboardUrl=http://172.27.12.78/dashboard/index/trainings_day1:24823
-ceTaskId=AXulchV4a_m12xx6RwGW
-ceTaskUrl=http://172.27.12.78/api/ce/task?id=AXulchV4a_m12xx6RwGW
+ceTaskId=AXuldPmia_m12xx6RwGX
+ceTaskUrl=http://172.27.12.78/api/ce/task?id=AXuldPmia_m12xx6RwGX
